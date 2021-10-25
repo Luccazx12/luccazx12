@@ -1,9 +1,8 @@
 ## Hello World!
-  
-  <div> 
-    <a href= "https://www.linkedin.com/in/mario-lucca/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"          target="_blank"></a>
-    <a href="https://www.instagram.com/luccazx12/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"           target="_blank"></a>  
-</div> 
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/mario-lucca/)](https://www.linkedin.com/in/mario-lucca/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=&logo=instagram&logoColor=white&link=https://www.instagram.com/luccazx12/)](https://www.instagram.com/luccazx12/)
+
 
 #### 🖥️ - Cursando Técnico em Desenvolvimento de Sistemas
 
