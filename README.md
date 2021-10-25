@@ -26,6 +26,7 @@
   
 <h3 align="center">:bar_chart: GitHub Stats</h3><br>
 
-<p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=luccazx12&show_icons=true&theme=radical&github.com/luccazx12/github-readme-stats">
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccazx12&layout=compact&theme=radical&github.com/luccazx12/github-readme-stats"></p>
+<div align=center>
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=luccazx12&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+  <img width="400"  src="https://github-readme-streak-stats.herokuapp.com?user=luccazx12&theme=tokyonight&hide_border=true" />
+</div>
