@@ -1,6 +1,6 @@
 ## Hello World!
 
-#### Cursando Técnico em Desenvolvimento de Sistemas
+#### 🖥️ - Cursando Técnico em Desenvolvimento de Sistemas
 
 <h3 align="center">:bar_chart: GitHub Stats</h3><br>
 
