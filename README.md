@@ -24,7 +24,7 @@
   [![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=&logo=mysql&logoColor=white&link=https://https://www.mysql.com/)](https://www.mysql.com/)
   [![Express Badge](https://img.shields.io/badge/Express.js-000000?style=&logo=express&logoColor=white&link=https://expressjs.com/)](https://expressjs.com/)
   
-<h3 align="center">:bar_chart: GitHub Stats</h3><br>
+
 
 <div align=center>
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=luccazx12&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
