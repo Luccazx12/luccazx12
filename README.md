@@ -4,7 +4,7 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=&logo=instagram&logoColor=white&link=https://www.instagram.com/luccazx12/)](https://www.instagram.com/luccazx12/)
 
 
-#### 🖥️ - Cursando Técnico em Desenvolvimento de Sistemas
+#### 🖥️ - Cursando Técnico em Desenvolvimento de Sistemas na Escola SENAI Suíço-Brasileira Paulo Ernesto Tolle
 
 * **Languages**<br>
   [![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=&logo=javascript&logoColor=black&link=https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
