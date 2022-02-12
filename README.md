@@ -20,7 +20,7 @@ class Skills extends Developer {
   languages  = ['Javascript', 'Typescript'];
   databases  = ['MySQL', 'PostgreSQL'];
   frameworks = ['React', 'React-native', 'Express'];
-  others = ['Scrum', 'Figma'];
+  others = ['Scrum', 'Kanban', 'Figma'];
 }
 ```
 
