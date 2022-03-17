@@ -19,7 +19,7 @@ class AboutMe extends Developer {
 class Skills extends Developer {
   languages  = ['Javascript', 'Typescript'];
   databases  = ['MySQL', 'PostgreSQL'];
-  frameworks = ['React', 'React-native', 'Express'];
+  libs/frameworks = ['React', 'React-native'];
   others = ['Scrum', 'Kanban', 'Figma'];
 }
 ```
