@@ -11,17 +11,6 @@ class Bio extends Developer {
   title    = 'Full stack developer';
   location = 'São Paulo, Brazil';
 }
-
-class AboutMe extends Developer {
-  hobbies = ['Gaming', 'Listen Music', 'Watch Series', 'Gym']; 
-}
-
-class Skills extends Developer {
-    languages   = ['Javascript', 'Typescript'];
-    databases   = ['MySQL', 'PostgreSQL'];
-libs/frameworks = ['React', 'React-native', 'Express'];
-     others     = ['Scrum', 'Kanban', 'Figma'];
-}
 ```
 
 <div align=center>
